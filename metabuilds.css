@@ -1,0 +1,420 @@
+        
+        body{
+          color: white;
+          background-color: #202020;
+          font-family: Germania One,serif;
+      }
+
+      th{
+        font-size: 24px;
+      }
+      
+      body {
+     background-color: #0f0f0f;
+      }
+
+      .zoom {
+transition: transform .2s; /* Animation */
+}
+      .zoom:hover {
+transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+      
+      #imgHamlet {
+     background-color: black;
+      }
+      
+      #imgHamlet1 {
+      background-image: url("images/fire1.jpg");
+      background-size: cover;
+      background-position: center center;
+      height: 300px;
+      padding: 300px;
+      }
+      
+      #darkest{
+      background-image: url("images/darkestdark.webp");
+      background-size: contain;
+      background-position: center center;
+      }
+      
+      .navbar-brand-img {
+          height: 50px;
+          width: 50px;
+          margin-right: 10px;
+      }
+      
+      .navbar-brand{
+          color:azure;
+          font-family: Germania One,serif;
+      }
+      
+      .navbar {
+          background-color: rgb(4, 0, 1);
+          color:azure;
+          font-family: Germania One,serif;
+      }
+      
+      .nav-link{
+          color:azure;
+          font-family: Germania One,serif;
+      }
+      
+      .nav-link:hover {
+          color: red;
+      }
+      
+      .nav-link:focus{
+          color: red;
+      }
+      
+      #tablebg{
+      background-image: url(images/bg12344.png);
+      background-size: cover;
+      background-position: top;
+          
+      }
+      
+      #leaderboard1{
+          
+          background-color: rgb(4, 0, 1,0.8);
+          
+      }
+      
+      #imgborder{
+          border: 15px solid transparent;
+          border-image: url(https://pics.craiyon.com/2023-05-24/8d5cdd60a38d46fc9d8590054a38c01f.webp) 25% round ;
+      }
+      
+      #imgborder3{
+          border: 30px solid transparent;
+          border-image: url(circus11.jpg) 10% round ;
+          border-bottom: 0px;
+      }
+      
+      #imgborder1{
+          border: 15px solid transparent;
+          border-image: url(https://pics.craiyon.com/2023-05-24/8d5cdd60a38d46fc9d8590054a38c01f.webp) 25% round ;
+      }
+      
+      
+      
+      
+      
+      #footercontain{
+          background: #211918;
+          position: relative;
+          color: azure;
+      }
+      
+      #footerimg1{
+      background-image: url("images/arena1.png");
+      background-size: cover;
+      background-position: center center;
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      opacity: 0.3;
+      }
+      
+      #footercontain1{
+          background: #211918;
+          position: relative;
+          color: azure;
+          
+      
+      }
+      
+      #footerimg2{
+      background-image: url("images/arena.entrance_room_wall_darkest.png");
+      background-size: cover;
+      background-position: center center;
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      opacity: 0.3;
+      }
+      
+      #footertext{
+          isolation: isolate;
+          
+      }
+      
+       #leadertext{
+          isolation: isolate;
+      }
+      
+      #imgdiv {
+      background-image: url("images/loading_screen.town_circus_visit1.png");
+      background-size: cover;
+      background-position: center top;
+      width: 100%;
+      height: 350px;
+      }
+      
+      .borderdarkimgtop{
+          background-image: url("images/Loading_screen_Crypts.webp");
+      background-size: cover;
+      background-position: center center;
+      width: 100% auto;
+      height: 200px;
+      position: relative;
+      }
+      
+      .finisherbot{
+      background-color: #211918;
+      background-size: cover;
+      background-position: center center;
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      opacity: 0.3;
+      }
+      
+      #table1{
+        opacity: 1;
+        color: white;
+      }
+
+      .fixfonts{
+        font-size: 24px;
+      }
+      
+      
+.navbar-toggler-icon {
+background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}     
+      #navbarbg{
+        background-color: #0d0000;
+      }
+
+      #newsletter1{
+        color: white;
+        background-color: #0d0000;
+      }
+
+      #leaderboardBody{
+        font-size: 20px;
+      }
+
+      .textContent{
+        text-align: center;
+        font-size: 20px;
+      }
+
+      .bottomplayer{
+        background-color: #603D18;
+      }
+      .topplayer{
+        background-color: #8c0000;
+        
+      }
+
+      .herodiv{
+        position: relative;
+        float: left;
+      }
+
+      .champstats{
+        background-size: cover;
+        width: 300px;
+        border: solid 5px;
+        padding: 5px;
+        font-size: 20px;
+        border-color: #313131;
+        display: block;
+      }
+
+      #champdropdown{
+        position: relative;
+        background-image: url("images/arrow12.jpg");
+        height: 30px; 
+        width: 80px; 
+        background-size: cover;
+        background-position: center center;
+        rotate: 0deg;
+      } 
+
+      #trinketdropdown{
+        position: relative;
+        background-image: url("images/arrow12.jpg");
+        height: 30px; 
+        width: 80px; 
+        background-size: cover;
+        background-position: center center;
+        rotate: 0deg;
+      } 
+      #bansdropdown{
+        position: relative;
+        background-image: url("images/arrow12.jpg");
+        height: 30px; 
+        width: 80px; 
+        background-size: cover;
+        background-position: center center;
+        rotate: 0deg;
+      }
+
+      #tierdropdown{
+        position: relative;
+        background-image: url("images/arrow12.jpg");
+        height: 30px; 
+        width: 80px; 
+        background-size: cover;
+        background-position: center;
+        rotate: 0deg;
+      } 
+
+      .tablecont{
+        position: relative; 
+        top: 10px;
+      }
+
+      .trinketportrait{
+        width: 40px;
+        height: 40px;
+      }
+
+      .tierportrait{
+        width: 80px;
+        height: 80px;
+      }
+
+      .tierportrait1{
+        object-fit: contain;
+        border: #313131 solid;
+        border-width: 1px;
+        width: 80px;
+        height: 80px;
+      }
+
+      
+
+      #tableborder{
+        border: 45px solid transparent;
+          border-image: url(images/border6.png) 25% round ;
+          border-image-slice: 60;
+          border-top: 0;
+          overflow: auto;
+      }
+
+      #tableborder1{
+          border: 45px solid transparent;
+          border-image: url(images/border7.png) 25% round ;
+          border-image-slice: 45;
+          border-bottom: 0;
+          border-left: 0;
+          border-right: 0;
+      }
+
+      #tableborder::-webkit-scrollbar {
+width: 12px;               /* width of the entire scrollbar */
+}
+
+#tableborder::-webkit-scrollbar-track {
+background: rgb(54, 35, 0);        /* color of the tracking area */
+}
+
+#tableborder::-webkit-scrollbar-thumb {
+background-color: rgb(110, 2, 2);    /* color of the scroll thumb */
+border-radius: 20px;       /* roundness of the scroll thumb */
+border: 3px solid rgb(0, 0, 0);  /* creates padding around scroll thumb */
+}
+      
+  
+.blockgreen{
+background-color: green;
+
+
+}
+
+.blockblue{
+background-color: blue;
+
+}
+
+.blocktrinket1{
+background-color: red;
+height: 50%;
+width: 100%;
+}
+
+.blocktrinket2{
+background-color: yellow;
+height: 50%;
+width: 100%;
+}
+
+
+
+.block {
+  display: flex;
+  width: 24%;
+  min-width: 200px;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.big {
+  width: 60%;
+  width: 150px;
+  height: 150px;
+  background-color: #000000;
+}
+
+.small-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 40%;
+}
+
+.small {
+  height: 70px;
+  max-width: 200px;
+  background-color: #380202;
+ 
+}
+
+.metateamicon{
+width: 100%;
+height: 100%;
+}
+
+.metatrinketicon{
+object-fit: contain;
+justify-content: center;
+overflow: hidden;
+}
+
+.text-center{
+margin-top: 20px;
+}
+
+@media (max-width: 1000px) {
+  .block {
+      width: 50%; 
+      max-width: 350px;
+  }
+}
+
+
+@media (max-width: 500px) {
+  .row {
+      justify-content: center;
+  }
+  .block {
+      width: 80%;
+      max-width: 350px;
+      
+  }
+}

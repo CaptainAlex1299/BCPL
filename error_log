@@ -1,0 +1,40 @@
+[01-Aug-2025 03:33:39 UTC] PHP Warning:  Undefined array key "user_id" in /home/metrcgyx/public_html/AlexanderForrest/BCPL/updateusername.php on line 4
+[01-Aug-2025 03:33:39 UTC] PHP Warning:  Undefined array key "user" in /home/metrcgyx/public_html/AlexanderForrest/BCPL/updateusername.php on line 5
+[01-Aug-2025 05:37:41 UTC] PHP Warning:  Undefined array key "user_id" in /home/metrcgyx/public_html/AlexanderForrest/BCPL/upload.php on line 4
+[01-Aug-2025 06:51:21 UTC] PHP Warning:  Undefined array key "user" in /home/metrcgyx/public_html/AlexanderForrest/BCPL/resetpw.php on line 8
+[01-Aug-2025 06:51:21 UTC] PHP Warning:  Undefined array key "user_id" in /home/metrcgyx/public_html/AlexanderForrest/BCPL/resetpw.php on line 9
+[01-Aug-2025 06:51:21 UTC] PHP Warning:  Undefined array key "oldpassword" in /home/metrcgyx/public_html/AlexanderForrest/BCPL/resetpw.php on line 11
+[04-Aug-2025 11:48:08 UTC] PHP Warning:  Undefined array key "user_id" in /home/metrcgyx/public_html/AlexanderForrest/BCPL/rosterupdate.php on line 4
+[04-Aug-2025 11:48:08 UTC] PHP Warning:  Undefined array key "user" in /home/metrcgyx/public_html/AlexanderForrest/BCPL/rosterupdate.php on line 5
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined array key "user" in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 5
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 43
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $username in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 153
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $useremail in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 156
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $datecreated in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 157
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined array key "user" in /home/metrcgyx/public_html/AlexanderForrest/BCPL/functions.php on line 19
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined array key "user" in /home/metrcgyx/public_html/AlexanderForrest/BCPL/functions.php on line 19
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $hero1 in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 195
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $hero2 in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 196
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $hero3 in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 197
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $hero4 in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 200
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $hero5 in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 201
+[08-Aug-2025 23:15:51 UTC] PHP Warning:  Undefined variable $hero6 in /home/metrcgyx/public_html/AlexanderForrest/BCPL/logedin.php on line 202

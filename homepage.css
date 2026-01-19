@@ -1,0 +1,215 @@
+body{
+  font-family: Germania One,serif;
+}
+
+.card {
+background-color: rgb(4, 0, 1);
+color: azure;
+}
+
+.zoom {
+transition: transform .2s; /* Animation */
+}
+.zoom:hover {
+transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+#imgHamlet {
+background-color: black;
+object-fit: scale-down;
+}
+
+#darkest{
+background-image: url(images/darkestdark.webp);
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center center;
+
+}
+
+.navbar-brand-img {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+
+.navbar-brand{
+  color:azure;
+  font-family: Germania One,serif;
+}
+
+.navbar {
+  background-color: rgb(4, 0, 1);
+  color:azure;
+  font-family: Germania One,serif;
+}
+
+.nav-link{
+  color:azure;
+  font-family: Germania One,serif;
+}
+
+.nav-link:hover {
+  color: red;
+}
+
+.nav-link:focus{
+  color: red;
+}
+
+#tablebg{
+  width: 480px;
+  background-color: #080808;
+  background-size: cover;
+  background-position: center center;
+  opacity: 0.9;
+  border-radius: 25px 25px 0px 0px;
+  
+}
+.scoreborder{
+  background-color: #6128029f;
+  height: 40px;
+  border: 2px solid transparent;
+  border-radius: 12px 12px 12px 12px;
+}
+
+#leaderboard1{
+  
+  background-color: rgb(4, 0, 1,0.8);
+  
+}
+
+#imgborder{
+  margin: 0 auto;
+  width: auto;
+  max-width: 500px;
+  border: 15px solid transparent;
+  border-image: url(https://pics.craiyon.com/2023-05-24/8d5cdd60a38d46fc9d8590054a38c01f.webp) 25% round ;
+}
+
+#imgborder3{
+  border: 30px solid transparent;
+  border-bottom: 0px;
+}
+
+#imgborder1{
+  border: 15px solid transparent;
+  border-image: url(https://pics.craiyon.com/2023-05-24/8d5cdd60a38d46fc9d8590054a38c01f.webp) 25% round ;
+}
+
+
+
+
+
+#footercontain{
+  background: #211918;
+  position: relative;
+  color: azure;
+}
+
+#footerimg1{
+background-image: url("images/arena1.png");
+background-size: cover;
+background-position: center center;
+content: '';
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+opacity: 0.3;
+}
+
+#footercontain1{
+  background: #211918;
+  position: relative;
+  color: azure;
+  
+
+}
+
+#footerimg2{
+background-image: url("images/arena.entrance_room_wall_darkest.png");
+background-size: cover;
+background-position: center center;
+content: '';
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+opacity: 0.3;
+}
+
+#footertext{
+  isolation: isolate;
+  
+}
+
+#leadertext{
+  isolation: isolate;
+}
+
+#imgdiv {
+background-image: url("images/loading_screen.town_circus_visit123.png");
+background-size: cover;
+background-position: center top;
+width: 100%;
+height: 250px;
+}
+
+.borderdarkimgtop{
+  background-image: url("images/Loading_screen_Crypts.png");
+background-size: cover;
+background-position: center center;
+width: 100% auto;
+height: 200px;
+position: relative;
+}
+
+.finisherbot{
+background-color: #171111;
+background-size: cover;
+background-position: center center;
+content: '';
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+opacity: 1;
+}
+
+#table1{
+opacity: 1;
+color: white;
+}
+
+.fixfonts{
+white-space: nowrap;
+}
+
+.fixture-display{
+  font-size: 22px;
+  white-space: nowrap;
+  display: inline-block;
+  }
+
+.scorefont{
+  font-size: 26px;
+}
+
+.navbar-toggler-icon {
+background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}     
+#navbarbg{
+  background-color: #0d0000;
+  border: 5px solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: rgba(87, 1, 1, 0.253);
+}
+
+#newsletter1{
+color: white;
+background-color: #0d0000;
+}
